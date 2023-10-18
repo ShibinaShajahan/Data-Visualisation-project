@@ -1,2 +1,2 @@
-# Data-Visualisation-project
-Visualisation project on Violence Against Women employs diverse visualizations to uncover patterns and insights, fostering awareness and contributing to discussions on preventing violence against women.
+# DataSpeak - Breaking the Silence
+DataSpeak is a data visualization project that sheds light on the pervasive issue of violence against women and girls. By harnessing the power of data, this project aims to amplify voices and drive awareness toward positive change.
